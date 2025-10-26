@@ -47,5 +47,15 @@
         "required": [],
         "idx": 5,
         "version": "0.0.1"
+    },
+    "payments": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "49b4f63f8748daea6d1b0f262a617d824c456d52",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 6,
+        "version": "0.0.1"
     }
 }

@@ -3,3 +3,4 @@ school_automations
 lms
 education
 erpnext
+payments

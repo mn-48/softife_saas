@@ -1,8 +1,11 @@
 {
  "background_workers": 1,
+ "developer_mode": 1,
+ "dns_multitenant": true,
  "file_watcher_port": 6787,
  "frappe_user": "nazmul",
  "gunicorn_workers": 9,
+ "http_timeout": 400000,
  "live_reload": true,
  "rebase_on_pull": false,
  "redis_cache": "redis://127.0.0.1:13000",
