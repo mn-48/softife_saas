@@ -1,0 +1,51 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "16.0.0-dev"
+    },
+    "erpnext": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "b0fef75bfa274c4e983b85a34a04d5fab74f3123",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "16.0.0-dev"
+    },
+    "lms": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "41293130ad5a82f98ff3a878a7e746058f4a8d0e",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "2.39.1"
+    },
+    "education": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "8e8c1f77205e192946971c1f8da2e48211764e0a",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "15.5.3"
+    },
+    "school_automations": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "7b12732cc4ed99f9df5c0e0284153e37ed41db7d",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 5,
+        "version": "0.0.1"
+    }
+}

@@ -49,6 +49,11 @@ bench --site ims.localhost install-app erpnext
 bench --site school.localhost install-app erpnext lms education school_automations
 ```
 
+### Privileges and Permissions
+```
+sudo chmod -R 777 .
+```
+
 
 #### DNS Multitenant Set
 
